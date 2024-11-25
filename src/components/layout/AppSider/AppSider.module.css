@@ -1,0 +1,21 @@
+.sider {
+	padding: 1rem;
+}
+
+.flexContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem; 
+}
+
+.card {
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.listItem {
+	padding: 12px 0 !important;
+	display: flex;
+	justify-content: space-between;
+}
+
